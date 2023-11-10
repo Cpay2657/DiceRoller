@@ -1,0 +1,10 @@
+<layer id="1:49" name="_bg__splash_screen" type="shape" shapeType="rectangle" color="0xFFFFFF" x="-1" y="-1" width="360" height="640" >
+	<effects>
+		<effect type="frameFX" lineSize="1" color="0x000000" alpha="1" />
+	</effects>
+	<constraints>
+		<horizontal>MIN</horizontal>
+		<vertical>MIN</vertical>
+	</constraints>
+ 
+</layer>
